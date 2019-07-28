@@ -1,2 +1,2 @@
 # RSCM
-ini merupakan coba coba untuk update file
+ini merupakan coba coba untuk update file dan update description
