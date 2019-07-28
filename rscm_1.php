@@ -43,4 +43,6 @@
 	}
 
 	//hitungLembar(60000);
+	
+	//coba tambah komen di file untuk melihat pengaruh perbedaan
 </script>
